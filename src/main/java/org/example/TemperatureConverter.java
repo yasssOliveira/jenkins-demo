@@ -3,7 +3,7 @@ package org.example;
 public class TemperatureConverter {
 
     public double fahrenheitToCelsius(double f) {
-        return (f - 32) * 4 / 9;
+        return 0;
     }
 
     public double celsiusToFahrenheit(double c) {
